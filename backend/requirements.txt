@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+sentence-transformers
+numpy
+pypdf
+openai
+python-multipart
+pgvector
